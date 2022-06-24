@@ -1,6 +1,7 @@
 # Ejercicio 4 Introduccion a CSS
 Ejercicio 4 / Introduccion a CSS del curso de HTML Y CSS de Open Bootcamp
-Debe estar dividido en tres secciones (etiqueta)
+
+# Crea un nuevo documento HTML con el título "Ganando precisión con los selectores en CSS"
 
 ## Crea un nuevo fichero CSS e impórtalo en el documento HTML principal
 
